@@ -18,4 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Flutter doctor screenshot
 
-<img src="image.png" alt="Flutter doctor screenshot" />
+<img src="image1.png" alt="Flutter doctor screenshot" />
+
+# Flutter doctor -v screenshot
+
+<img src="image.png" alt="Flutter doctor -v screenshot" />
