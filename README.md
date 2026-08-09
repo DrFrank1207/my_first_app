@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Flutter doctor screenshot
 
-<img C:\Users\frank\OneDrive\Documentos\Proyectos Programación\App Movil\mi_primer_app\image.png>
+<img image.png>
