@@ -50,3 +50,15 @@ ya están cubiertos por las pruebas de ida y vuelta.
 El JSON tiene tres casos a propósito: uno completo, uno sin la clave opcional
 `extras` y uno cancelado (dato obligatorio). Todas las fechas van en UTC con
 `Z` al final.
+
+## Entorno
+
+`flutter doctor -v` sin errores en rojo:
+
+### flutter doctor
+
+<img src="image1.png" alt="flutter doctor" />
+
+### flutter doctor -v
+
+<img src="image.png" alt="flutter doctor -v" />
