@@ -1,0 +1,35 @@
+[
+
+  {
+    "id": "ped-001",
+    "cliente": "Ana Gómez",
+    "direccion": { "barrio": "Centro", "calle": "Carrera 19 #16-24" },
+    "monto": { "cantidad": 38500, "moneda": "COP" },
+    "creadoEn": "2026-08-14T18:40:00Z",
+    "estado": {
+      "tipo": "entregado",
+      "entregadoEn": "2026-08-14T19:22:00Z",
+      "recibio": "Ana Gómez"
+    },
+    "extras": ["sin cebolla", "salsa extra"]
+  },
+
+  {
+    "id": "ped-002",
+    "cliente": "Jorge Martínez",
+    "direccion": { "barrio": "Villa Corelca", "calle": "Calle 12 #8-50" },
+    "monto": { "cantidad": 25900, "moneda": "COP" },
+    "creadoEn": "2026-08-14T20:05:00Z",
+    "estado": { "tipo": "en_camino", "repartidor": "Carlos" }
+  },
+
+  {
+    "id": "ped-003",
+    "cliente": "Luz Dary Pérez",
+    "direccion": { "barrio": "Los Fundadores", "calle": "Av. Simón Bolívar 45-12" },
+    "monto": { "cantidad": 42000, "moneda": "COP" },
+    "creadoEn": "2026-08-14T19:30:00Z",
+    "estado": { "tipo": "cancelado", "motivo": "El restaurante cerró antes del horario de entrega." }
+  }
+
+]
